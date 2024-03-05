@@ -94,7 +94,7 @@ function App() {
   }  
 
 
-  console.log(results)
+
 
   return (
     <div className="h-full overflow-auto">
