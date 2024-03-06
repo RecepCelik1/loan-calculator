@@ -104,7 +104,7 @@ function App() {
 
       <div className="h-full flex">
 
-        <div className="bg-slate-800 w-36 h-full font-bold text-white flex justify-center items-center hidden md:block">aside</div>
+      <div className="bg-slate-800 w-36 h-screen font-bold text-white hidden justify-center items-center sm:flex">aside</div>
 
         <div className="flex justify-center items-center w-full">
 
