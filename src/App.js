@@ -219,7 +219,7 @@ function App() {
 
       </div>
 
-      <div className="w-full bg-cyan-900 font-bold text-white flex justify-center items-center h-20 mt-20">Footer</div>
+      <div className="w-full bg-cyan-900 font-bold text-white flex justify-center items-center h-20">Footer</div>
 
     </div>
     </div>
