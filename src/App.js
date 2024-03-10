@@ -95,10 +95,10 @@ function App() {
     setResults(result)
   }  
 
-  console.log(results)
 
-  let actualTermInYears = (results.paymentSchedule.length)/12
-  let averageInterestPayment = (results.totalInterestPaid)/(results.paymentSchedule.length)
+
+  let actualTermInYears = (results?.paymentSchedule.length)/12
+  let averageInterestPayment = (results?.totalInterestPaid)/(results?.paymentSchedule.length)
 
   return (
     <div className="h-full overflow-auto">
