@@ -189,7 +189,7 @@ function App() {
 
               <div className="flex justify-between w-full mt-2">
                 <div className="flex justify-center items-center font-semibold ">NUMBER OF YEARS</div>
-                <div className="flex justify-center items-center font-sans text-lg">{actualTermInYears.toFixed(2)}$</div>
+                <div className="flex justify-center items-center font-sans text-lg">{actualTermInYears.toFixed(2)}</div>
               </div>
 
             </div>
